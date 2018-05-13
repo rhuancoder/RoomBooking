@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/RoomBooking.Domain/obj/Debug
+/packages
+/RoomBooking.Console/obj/Debug
