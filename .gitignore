@@ -6,3 +6,5 @@
 /RoomBooking.Domain/obj/Debug
 /packages
 /RoomBooking.Console/obj/Debug
+/RoomBooking.Console/bin/Debug
+/RoomBooking.Domain/bin/Debug
